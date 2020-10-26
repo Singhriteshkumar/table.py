@@ -1,6 +1,6 @@
 #   write a program a table use to python
 #   program written by Ritesh Kumar Singh
-S=int(input("enter a starr table :"))
+S=int(input("enter a start table :"))
 l=int(input("enter a last table :"))
 i=1
 while(i<=10):
